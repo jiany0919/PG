@@ -18,22 +18,22 @@ http://www.fish2018.us.kg/p/jsm.json
 
 ## PG包下载地址
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20241121-1423.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20241121-1423.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20241121-1423.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1423.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20241121-1653.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20241121-1653.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20241121-1653.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241121-1653.zip
 ```
 
 ## pg包今日更新内容

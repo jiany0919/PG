@@ -16,22 +16,22 @@ http://www.fish2018.us.kg/p/jsm.json
 
 ## PG包下载地址
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250101-1953.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250101-1953.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250101-1953.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-1953.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250101-2038.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250101-2038.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250101-2038.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250101-2038.zip
 ```
 
 ## pg包今日更新内容
@@ -50,6 +50,7 @@ PG包[README.txt](http://tv.devopser.org/p/README.txt)
 3.修复大量错误，优化使用体验。
 4.修复观影磁力无法播放问题
 5.修复不太灵（需要在弹出页面中输入验证码）
+6.内置直播改为最强直播，需要网盘配置》其他配置》重新载入GO代理》点击allinone
 ```
 
 ## tgsearch包下载地址
